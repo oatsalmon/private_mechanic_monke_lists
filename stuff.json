@@ -1,0 +1,46 @@
+[
+    {
+        "name": "B-Pro",
+        "author": "Buzz",
+        "filenames": [
+            "BPro.dll"
+        ],
+        "keyword": "bpro",
+        "type": "Mod",
+        "repo": "BzzzThe18th",
+        "download": "EXC_PRIVATE_DONOTREMOVE"
+    },
+  {
+        "name": "GorillaComputer",
+        "author": "dev9998",
+        "filenames": [
+            "GorillaComputer.dll"
+        ],
+        "keyword": "GorillaComputer",
+        "type": "Mod",
+        "repo": "Developer9998/GorillaShirts",
+        "download": "https://github.com/developer9998/GorillaComputer/archive/refs/heads/main.zip"
+    },
+  {
+        "name": "GorillaRichPrescence",
+        "author": "dev9998",
+        "filenames": [
+            "GorillaRichPrescence.dll"
+        ],
+        "keyword": "GorillaRichPrescence",
+        "type": "Mod",
+        "repo": "Developer9998/GorillaRichPrescence",
+        "download": "https://github.com/developer9998/GorillaRichPrescence/archive/refs/heads/main.zip"
+    },
+    {
+        "name": "GorillaShirts",
+        "author": "dev9998",
+        "filenames": [
+            "GorillaShirts.dll"
+        ],
+        "keyword": "GorillaShirts",
+        "type": "Mod",
+        "repo": "Developer9998/GorillaShirts",
+        "download": "https://github.com/developer9998/GorillaShirts/archive/refs/heads/main.zip"
+    },
+]
